@@ -1,0 +1,5 @@
+__title__ = 'Bulk-DPI-Converter'
+__author__ = 'Itai Shek'
+__copyright__ = 'Copyright (c) 2023 Itai Shek'
+__version__ = '1.0.0'
+__license__ = 'GPL 3.0'

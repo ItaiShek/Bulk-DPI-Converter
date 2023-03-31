@@ -1,0 +1,10 @@
+src/__pycache__
+src/.venv
+src/.vscode
+src/build
+src/dist
+src/Bulk DPI Converter.spec
+src/Bulk_DPI_Converter/__pycache__
+src/Bulk_DPI_Converter/visual_model.png
+src/Bulk_DPI_Converter/Functions/__pycache__
+src/Bulk_DPI_Converter/GUI/__pycache__
